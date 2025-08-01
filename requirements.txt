@@ -1,0 +1,14 @@
+langchain
+langchain_groq
+ipykernel
+python-dotenv
+langchain_core
+uvicorn
+fastapi
+langserve
+sse_starlette
+pydantic
+langchain_community
+langchain_chroma
+langchain_huggingface
+sentence-transformers
