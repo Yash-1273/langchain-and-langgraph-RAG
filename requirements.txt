@@ -11,4 +11,4 @@ pydantic
 langchain_community
 langchain_chroma
 langchain_huggingface
-sentence-transformers
+sentence-transformer
